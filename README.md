@@ -7,7 +7,7 @@ I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
- 🌱 I’m currently learning <img src="https://global-uploads.webflow.com/57570c1261112bf3445ae492/5a99800c56512700019e6c1b_microsoft-azure-640x401.png" width="50" height="50"> Microsoft Azure , Nodejs with MongoDB (Mongoose)
+ 🌱 I’m currently learning <img src="https://global-uploads.webflow.com/57570c1261112bf3445ae492/5a99800c56512700019e6c1b_microsoft-azure-640x401.png" width="100" height="100"> Microsoft Azure , Nodejs with MongoDB (Mongoose)
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
