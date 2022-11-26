@@ -12,7 +12,7 @@ I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the
  
  :books: I want to learn <img src="https://img.shields.io/badge/Devops-Docker-orange"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking to collaborate for a robust Full Stack web app ,deployed on Azure Web App with Docker & Devops automations**.
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
