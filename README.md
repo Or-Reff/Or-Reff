@@ -29,6 +29,8 @@ I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the
 ### Let's connect 🌍
 <a href="https://www.linkedin.com/in/or-reff/"><img src="https://img.shields.io/badge/LinkedIn-Or--Reff-blue" alt="Or-Reff - LinkedIn"></a>
 <a href="mailto:orreff7@gmail.com"><img src="https://img.shields.io/badge/Or--Reff-Gmail-red" alt="Or-Reff - LinkedIn"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<br>
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 
