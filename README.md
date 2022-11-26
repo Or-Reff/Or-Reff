@@ -29,6 +29,7 @@ I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the
 ---
 
 ### Let's connect 🌍
+<img src="https://img.shields.io/badge/LinkedIn-Or--Reff-blue" href="https://www.linkedin.com/in/or-reff/">
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Or--Reff-blue&link=https://www.linkedin.com/in/or-reff//)](https://www.linkedin.com/in/or-reff//)<br/>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
