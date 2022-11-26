@@ -6,7 +6,7 @@
 
 I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about robust dynamic & responsive real-time websites. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **Social Media Responsive Web App**.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/Microsoft-Azure-blue"> Microsoft Azure ,improving <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">">  with <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> (Mongoose).
  
