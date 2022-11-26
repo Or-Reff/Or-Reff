@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/or-reff/"><img src="https://img.shields.io/badge/LinkedIn-Or--Reff-blue" alt="Or-Reff - LinkedIn"></a>
 <a href="mailto:orreff7@gmail.com"><img src="https://img.shields.io/badge/Or--Reff-Gmail-red" alt="Or-Reff - LinkedIn"></a>
 
-I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about robust dynamic & responsive real-time websites. :wink:
+I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the world with User Experience using my Design Thinking Skills and Enthusiast about robust dynamic & responsive real-time websites. :wink:
  
  🔭 I’m planning for a Project **Responsive Social Media Web App**.
  
