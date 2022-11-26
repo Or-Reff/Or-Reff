@@ -10,7 +10,7 @@ I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/Microsoft-Azure-blue"> Microsoft Azure ,improving <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">">  Nodejs with <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> MongoDB (Mongoose).
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/Devops-Docker-orange"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
  
