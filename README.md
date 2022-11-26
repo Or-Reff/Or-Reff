@@ -50,20 +50,10 @@ I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
-
----
-
-
 ### Let's connect 🌍
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://www.linkedin.com/in/or-reff/" />][linkedin]
+[<img align="left" alt="or-reff | LinkedIn" width="22px" src="https://www.linkedin.com/in/or-reff/" />][linkedin]
 <br/>
-
-
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 
-
