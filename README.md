@@ -1,9 +1,7 @@
 ### Hello i'm Or Reff :) 👋
 
 ---
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="or-reff" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/or-reff?trk=profile-badge">Or Reff LinkedIn</a></div>
-              
+<a href="https://www.linkedin.com/in/or-reff/"><img src="https://img.shields.io/badge/LinkedIn-Or--Reff-blue" alt="Or-Reff - LinkedIn"></a>
 
 
 I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about robust dynamic & responsive real-time websites. :wink:
@@ -29,8 +27,9 @@ I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the
 ---
 
 ### Let's connect 🌍
-<img src="https://img.shields.io/badge/LinkedIn-Or--Reff-blue">
 <a href="https://www.linkedin.com/in/or-reff/"><img src="https://img.shields.io/badge/LinkedIn-Or--Reff-blue" alt="Or-Reff - LinkedIn"></a>
+<a href="https://www.linkedin.com/in/or-reff/"><img src="https://img.shields.io/badge/Or--Reff-Gmail-red" alt="Or-Reff - LinkedIn"></a>
+[![Gmail Badge](https://img.shields.io/badge/Or--Reff-Gmail-red&link=mailto:orreff7@gmail.com)](mailto:orreff7@gmail.com)
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
