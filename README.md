@@ -14,7 +14,7 @@ I am a Full-stack Engineer who is exploring Cloud :cloud: while facilitating the
  
  👯 I’m looking to collaborate for a robust Full Stack web app ,deployed on Azure Web App with Docker & Devops automations**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ 🤔 I’m looking for help with Micorosoft's Azure AZ-204 Exam.
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
